@@ -1,10 +1,8 @@
 # GitHub Repo Activity Recorder
 
-![Animation](generated/overview.svg)
-
-![Animation](generated/3089464667__default-app_status.svg)
-
-![Animation](generated/languages.svg)
+![](generated/overview.svg)
+![](generated/languages.svg)
+![](generated/your_repo_name_status.svg)
 
 ## 项目简介
  

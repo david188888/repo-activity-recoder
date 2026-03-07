@@ -12423,6 +12423,11 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2026-03-07": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
       }
     },
     "last_stars": 0,
@@ -12540,6 +12545,11 @@
         "views": 0
       },
       "2026-03-06": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
+      },
+      "2026-03-07": {
         "stars": 0,
         "clones": 0,
         "views": 0
@@ -12678,6 +12688,11 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2026-03-07": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
       }
     },
     "last_stars": 0,
@@ -12798,10 +12813,15 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2026-03-07": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
       }
     },
     "last_stars": 1,
-    "last_clones": 1,
+    "last_clones": 0,
     "last_views": 0
   },
   "david188888/Paper": {
@@ -12915,6 +12935,11 @@
         "views": 0
       },
       "2026-03-06": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
+      },
+      "2026-03-07": {
         "stars": 0,
         "clones": 0,
         "views": 0
@@ -13038,6 +13063,11 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2026-03-07": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
       }
     },
     "last_stars": 0,
@@ -13047,7 +13077,7 @@
   "david188888/SubwayRoute-management": {
     "stars": 0,
     "clones": 4,
-    "views": 0,
+    "views": 3,
     "history": {
       "2026-02-13": {
         "stars": 0,
@@ -13158,11 +13188,16 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2026-03-07": {
+        "stars": 0,
+        "clones": 0,
+        "views": 3
       }
     },
     "last_stars": 0,
     "last_clones": 1,
-    "last_views": 0
+    "last_views": 3
   },
   "david188888/2025-MCM-ICM": {
     "stars": 2,
@@ -13278,11 +13313,16 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2026-03-07": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
       }
     },
     "last_stars": 2,
-    "last_clones": 3,
-    "last_views": 8
+    "last_clones": 2,
+    "last_views": 7
   },
   "david188888/DialogGraph-LLM": {
     "stars": 13,
@@ -13397,6 +13437,11 @@
       "2026-03-06": {
         "stars": 0,
         "clones": 1,
+        "views": 0
+      },
+      "2026-03-07": {
+        "stars": 0,
+        "clones": 0,
         "views": 0
       }
     },
@@ -13518,10 +13563,15 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2026-03-07": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
       }
     },
     "last_stars": 0,
-    "last_clones": 1,
+    "last_clones": 0,
     "last_views": 0
   },
   "david188888/Gradesearch": {
@@ -13635,6 +13685,11 @@
         "views": 0
       },
       "2026-03-06": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
+      },
+      "2026-03-07": {
         "stars": 0,
         "clones": 0,
         "views": 0
@@ -13758,10 +13813,15 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2026-03-07": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
       }
     },
     "last_stars": 0,
-    "last_clones": 1,
+    "last_clones": 0,
     "last_views": 0
   },
   "david188888/Federated-pytorch": {
@@ -13878,10 +13938,15 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2026-03-07": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
       }
     },
     "last_stars": 1,
-    "last_clones": 1,
+    "last_clones": 0,
     "last_views": 0
   },
   "euyis1019/Multimodal-Sentiment-Analysis": {
@@ -13995,6 +14060,11 @@
         "views": 0
       },
       "2026-03-06": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
+      },
+      "2026-03-07": {
         "stars": 0,
         "clones": 0,
         "views": 0
@@ -14115,6 +14185,11 @@
         "views": 0
       },
       "2026-03-06": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
+      },
+      "2026-03-07": {
         "stars": 0,
         "clones": 0,
         "views": 0
@@ -14313,10 +14388,15 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2026-03-07": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
       }
     },
     "last_stars": 7,
-    "last_clones": 11,
+    "last_clones": 10,
     "last_views": 2
   },
   "david188888/hull-tactical": {
@@ -14432,6 +14512,11 @@
       "2026-03-06": {
         "stars": 0,
         "clones": 1,
+        "views": 0
+      },
+      "2026-03-07": {
+        "stars": 0,
+        "clones": 0,
         "views": 0
       }
     },
@@ -14550,6 +14635,11 @@
         "views": 0
       },
       "2026-03-06": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
+      },
+      "2026-03-07": {
         "stars": 0,
         "clones": 0,
         "views": 0
@@ -14673,6 +14763,11 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2026-03-07": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
       }
     },
     "last_stars": 0,
@@ -14793,11 +14888,16 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2026-03-07": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
       }
     },
     "last_stars": 0,
     "last_clones": 0,
-    "last_views": 2
+    "last_views": 0
   },
   "amphionspace/RVC": {
     "stars": 0,
@@ -15063,6 +15163,11 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2026-03-07": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
       }
     },
     "last_stars": 2,
@@ -15183,11 +15288,16 @@
         "stars": 0,
         "clones": 0,
         "views": 2
+      },
+      "2026-03-07": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
       }
     },
     "last_stars": 3,
     "last_clones": 4,
-    "last_views": 3
+    "last_views": 2
   },
   "humbleman24/TradExpert": {
     "stars": 2,
@@ -15300,6 +15410,11 @@
         "views": 4
       },
       "2026-03-06": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
+      },
+      "2026-03-07": {
         "stars": 0,
         "clones": 0,
         "views": 0
@@ -15423,6 +15538,11 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2026-03-07": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
       }
     },
     "last_stars": 0,
@@ -15432,7 +15552,7 @@
   "david188888/Audio-Emotion": {
     "stars": 3,
     "clones": 5,
-    "views": 5,
+    "views": 9,
     "history": {
       "2026-02-13": {
         "stars": 0,
@@ -15543,15 +15663,20 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2026-03-07": {
+        "stars": 0,
+        "clones": 0,
+        "views": 4
       }
     },
     "last_stars": 3,
     "last_clones": 0,
-    "last_views": 2
+    "last_views": 6
   },
   "david188888/Unified-Mood-Classification": {
     "stars": 1,
-    "clones": 47,
+    "clones": 48,
     "views": 14,
     "history": {
       "2026-02-13": {
@@ -15663,15 +15788,20 @@
         "stars": 0,
         "clones": 12,
         "views": 4
+      },
+      "2026-03-07": {
+        "stars": 0,
+        "clones": 1,
+        "views": 0
       }
     },
     "last_stars": 1,
-    "last_clones": 42,
+    "last_clones": 43,
     "last_views": 14
   },
   "euyis1019/fragrance-recommendation-dataset": {
     "stars": 14,
-    "clones": 10,
+    "clones": 11,
     "views": 13,
     "history": {
       "2026-02-13": {
@@ -15783,10 +15913,15 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2026-03-07": {
+        "stars": 0,
+        "clones": 1,
+        "views": 0
       }
     },
     "last_stars": 14,
-    "last_clones": 8,
+    "last_clones": 9,
     "last_views": 10
   },
   "david188888/Web-Assignment": {
@@ -15900,6 +16035,11 @@
         "views": 0
       },
       "2026-03-06": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
+      },
+      "2026-03-07": {
         "stars": 0,
         "clones": 0,
         "views": 0
@@ -16023,11 +16163,16 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2026-03-07": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
       }
     },
     "last_stars": 0,
-    "last_clones": 177,
-    "last_views": 6
+    "last_clones": 174,
+    "last_views": 5
   },
   "david188888/WhisperTranscriber": {
     "stars": 0,
@@ -16140,6 +16285,11 @@
         "views": 0
       },
       "2026-03-06": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
+      },
+      "2026-03-07": {
         "stars": 0,
         "clones": 0,
         "views": 0
@@ -16263,6 +16413,11 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2026-03-07": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
       }
     },
     "last_stars": 81,
@@ -16270,7 +16425,7 @@
     "last_views": 0
   },
   "ErlichLiu/Proma": {
-    "stars": 240,
+    "stars": 248,
     "clones": 0,
     "views": 0,
     "history": {
@@ -16353,9 +16508,14 @@
         "stars": 15,
         "clones": 0,
         "views": 0
+      },
+      "2026-03-07": {
+        "stars": 8,
+        "clones": 0,
+        "views": 0
       }
     },
-    "last_stars": 240,
+    "last_stars": 248,
     "last_clones": 0,
     "last_views": 0
   }
